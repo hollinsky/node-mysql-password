@@ -1,0 +1,23 @@
+{
+  "name": "mysql-password",
+  "version": "0.0.1",
+  "description": "Returns the same value that would be returned from MySQL's password() function.",
+  "main": "mysqlpass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mysql",
+    "pass",
+    "password"
+  ],
+  "repository" : {
+      "type" : "git",
+      "url" : "http://github.com/hollinsky/node-mysql-password.git"
+  },
+  "author": {
+  	"name": "Paul Hollinsky",
+	"email": "paulhollinsky@gmail.com"
+  },
+  "license": "Unlicense"
+}
